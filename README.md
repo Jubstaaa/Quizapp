@@ -1,6 +1,6 @@
 # Quizapp
 
-Bu repo JavaScript kursumda hazırlamış olduğum quiz uygulamasıdır.
+This repo is the quiz application I prepared in my JavaScript course.
 
 ## Live Preview
 
